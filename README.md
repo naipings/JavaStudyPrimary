@@ -1,1 +1,1 @@
-# JavaStudyPrimary
+# 我的Java学习资料（入门）
